@@ -10,10 +10,6 @@ The script uses **MediaPipe FaceMesh** to detect facial landmarks around each ey
 - If the eyes stay closed continuously for a configurable duration (default: **20 seconds**), an alarm sound is triggered
 - A short cooldown prevents the alarm from spamming repeatedly
 
-## Demo
-
-*(Add a screenshot or short GIF of the webcam window here once you run it)*
-
 ## Tech Stack
 
 - Python 3.11
